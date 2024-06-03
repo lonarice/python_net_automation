@@ -6,14 +6,14 @@ d = {"devices":{
         "netc_test":{
             "connections":{
                 "vty":{
-                    "ip":"192.168.29.128",
+                    "ip":"",
                     "port":22,
                     "protocol":"ssh"
             }},
             "credentials":{
                 "default":{
-            "username":"admin",
-            "password":"C1sco12345"}},
+            "username":"",
+            "password":""}},
             "os":"iosxe"
         }
 }}
